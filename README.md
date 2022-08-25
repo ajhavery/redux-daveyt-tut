@@ -15,4 +15,5 @@
 
 # Lesson 1 Screenshot
 
-<img width="418" alt="image" src="https://user-images.githubusercontent.com/1153078/186733688-3128415b-816b-4444-8961-9bad04351d20.png">
+<img width="415" alt="image" src="https://user-images.githubusercontent.com/1153078/186733828-c4aeff65-8d77-4bf7-98db-24553fbb889c.png">
+
